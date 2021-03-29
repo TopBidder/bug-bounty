@@ -3,7 +3,7 @@ The bug bounties for the product testers which begins at Mar.29
 
 If you find anything confused or bugs when you use the product, feel free to [add issues](https://github.com/TopBidder/bug-bounty/issues/new) to introduce them with chinese or english, don't forget to leave your ETH address for bounties.
 
-# contact us directly
+### contact us directly
 Discord: https://discord.gg/BPRpFBvC7f
 
 
@@ -13,5 +13,5 @@ Discord: https://discord.gg/BPRpFBvC7f
 
 使用英文或中文提出问题均可
 
-# 加入微信群
+### 加入微信群
 微信添加小助手: **topbidder** 为好友，回复 1 加入测试群
